@@ -13,7 +13,9 @@
 
 ## 2.2 Transformers
 
-[Transformers](https://www.notion.so/Transformers-bcd252c9206e416b99b3680f0a948a61)
+[Transformers](https://github.com/loujie0822/Pre-trained-Languge-Model/blob/jielou/docs/basics/Transformer.md)
+
+
 
 ## 2.3 语言模型
 
