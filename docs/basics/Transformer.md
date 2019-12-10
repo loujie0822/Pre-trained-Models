@@ -1,5 +1,11 @@
 Transformer内核解析
 
+
+
+
+
+![image-20191210194143878](/Users/loujay/mygithub/Pre-trained-Languge-Model/resources/transformer.png)
+
 **1、Multi-Head Attention和Scaled Dot-Product Attention：**
 
 本质是self attention通过attention mask动态编码变长序列，解决长距离依赖、无位置偏差、可并行计算；
