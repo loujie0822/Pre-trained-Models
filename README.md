@@ -3,7 +3,7 @@
 
 # 1、Summarization
 
-![预先语言模型](https://raw.githubusercontent.com/thunlp/PLMpapers/master/PLMfamily.jpg)
+![预先语言模型](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.jpg)
 
 # 2、Basics
 
